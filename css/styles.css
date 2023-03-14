@@ -1,1 +1,14 @@
-//how to aling text on horizon on bootstrap?     
+    
+      
+/*carusoel*/
+#base-text-carousel{
+    background-color: rgba(241, 154, 154, 0.674);
+}
+      
+/*footer*/
+#footer-style{
+    background-color: #690013;
+    color: #fff;
+    text-align: center;
+   
+}
