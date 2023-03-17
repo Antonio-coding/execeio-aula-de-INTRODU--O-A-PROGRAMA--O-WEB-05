@@ -9,6 +9,12 @@
     background-color: rgba(241, 154, 154, 0.674);
 }
 
+/*conjunto de imagens*/
+
+#texto-comunicado{
+    background-color: antiquewhite;
+}
+
 /*footer*/
 #footer-style {
     background-color: #690013;
